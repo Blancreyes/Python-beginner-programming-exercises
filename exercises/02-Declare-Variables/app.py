@@ -1,1 +1,5 @@
-# your code here
+  # your code here
+name="Yellow"
+
+print(name)
+
